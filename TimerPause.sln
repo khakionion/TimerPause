@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerPause", "TimerPause\TimerPause.csproj", "{1DB1772B-03B1-4B61-BD1A-B33B37ED5B2B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{A15F6E54-3A12-438B-AE18-7E7245C49F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,8 @@ Global
 		{1DB1772B-03B1-4B61-BD1A-B33B37ED5B2B}.Debug|x86.Build.0 = Debug|x86
 		{1DB1772B-03B1-4B61-BD1A-B33B37ED5B2B}.Release|x86.ActiveCfg = Release|x86
 		{1DB1772B-03B1-4B61-BD1A-B33B37ED5B2B}.Release|x86.Build.0 = Release|x86
+		{A15F6E54-3A12-438B-AE18-7E7245C49F64}.Debug|x86.ActiveCfg = Debug
+		{A15F6E54-3A12-438B-AE18-7E7245C49F64}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
